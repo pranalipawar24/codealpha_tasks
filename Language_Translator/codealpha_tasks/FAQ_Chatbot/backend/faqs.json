@@ -1,0 +1,66 @@
+[
+  {
+    "keywords": ["hi", "hello", "hey", "morning", "evening"],
+    "answer": "Hello! I’m the Internship Assistant FAQ Bot. I’m here to help you with all your questions related to the internship program, including tasks, submission, certificates, and more. How can I assist you today?"
+  },
+
+  {
+    "keywords": ["internship", "about", "program", "objective", "learn", "worth", "think"],
+    "answer": "This internship program is designed to provide students with hands-on, real-world experience through practical tasks and projects. The main objective is to help interns develop industry-relevant skills, improve problem-solving abilities, and strengthen their resume."
+  },
+
+  {
+    "keywords": ["eligible", "eligibility", "beginner", "experience", "prerequisite", "apply", "student"],
+    "answer": "This internship is open to students from various educational backgrounds, including beginners. Prior experience is not mandatory, and anyone interested in learning and gaining practical experience is encouraged to apply."
+  },
+
+  {
+    "keywords": ["online", "offline", "remote", "mode", "duration", "long", "time"],
+    "answer": "The internship is conducted in online mode, allowing interns to work remotely. The duration is typically around one month, depending on the assigned tasks and the program schedule."
+  },
+
+  {
+    "keywords": ["task", "tasks", "project", "projects", "work", "difficulty", "beginner"],
+    "answer": "Interns are assigned practical and beginner-friendly tasks related to their chosen domain. Usually, a minimum of two or three tasks must be completed. The workload is manageable and designed to support learning and skill development."
+  },
+
+  {
+    "keywords": ["submit", "submission", "upload", "github", "repository", "deadline", "late"],
+    "answer": "Interns must upload their completed projects to a GitHub repository and submit the repository link through the official submission form before the deadline. Late submissions are subject to approval based on internship guidelines."
+  },
+
+  {
+    "keywords": ["evaluate", "evaluation", "review", "checked", "criteria", "feedback"],
+    "answer": "Submitted projects are reviewed by the evaluation team based on correctness, completeness, and adherence to the given instructions. Feedback or results are shared after the evaluation process is completed."
+  },
+
+  {
+    "keywords": ["certificate", "certification", "completion", "lor", "recommendation"],
+    "answer": "Interns who successfully complete and submit the required tasks receive a verified completion certificate. A Letter of Recommendation may also be provided based on performance and quality of work."
+  },
+
+  {
+    "keywords": ["paid", "stipend", "salary", "fee", "benefit", "resume"],
+    "answer": "This internship primarily focuses on learning and skill development. Stipend details depend on the specific program, but the internship offers valuable experience, certification, and resume enhancement."
+  },
+
+  {
+    "keywords": ["linkedin", "post", "share", "video", "demo", "explanation"],
+    "answer": "Interns may be required to share their internship experience or project updates on LinkedIn. A short project explanation or demo video may also be required, explaining the project idea, implementation, and functionality."
+  },
+
+  {
+    "keywords": ["support", "help", "contact", "issue", "problem"],
+    "answer": "For any technical issues or general queries, interns can reach out to the support team through the official communication channels provided during the internship."
+  },
+
+  {
+    "keywords": ["job", "placement", "opportunity", "future"],
+    "answer": "While a job is not guaranteed, high-performing interns may receive placement support or future opportunities based on their performance and project quality."
+  },
+
+  {
+    "keywords": ["id", "unique", "quit", "leave", "miss", "recognized"],
+    "answer": "Interns are expected to follow the program guidelines. Each intern may receive a unique internship ID, and the internship is recognized as a learning-based program focused on skill development."
+  }
+]
