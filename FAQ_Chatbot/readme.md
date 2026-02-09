@@ -45,16 +45,18 @@ This project is developed as part of the **CodeAlpha Internship – Task**.
 
 ## 📁 Project Structure
 
+```text
 FAQ_Chatbot/
 ├── frontend/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 ├── backend/
-│ ├── app.py
-│ ├── faqs.json
-│ └── requirements.txt
+│   ├── app.py
+│   ├── faqs.json
+│   └── requirements.txt
 └── README.md
+
 
 ---
 
