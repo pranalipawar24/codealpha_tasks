@@ -1,0 +1,15 @@
+# Core dependencies for the music generation project
+tensorflow==2.15.0
+keras==2.15.0
+music21==9.1.0
+numpy==1.24.3
+streamlit==1.29.0
+
+# Optional but recommended
+matplotlib==3.7.1
+
+# source venv/Scripts/activate
+# python preprocess.py
+# python train_model.py
+# python generate_music.py
+#streamlit run app.py
