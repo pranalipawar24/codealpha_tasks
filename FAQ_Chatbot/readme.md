@@ -44,6 +44,7 @@ This project is developed as part of the **CodeAlpha Internship – Task**.
 ---
 
 ## 📁 Project Structure
+
 FAQ_Chatbot/
 ├── frontend/
 │ ├── index.html
@@ -54,11 +55,6 @@ FAQ_Chatbot/
 │ ├── faqs.json
 │ └── requirements.txt
 └── README.md
-
-yaml
-Copy code
-
----
 
 ## ▶️ How to Run the Project
 
