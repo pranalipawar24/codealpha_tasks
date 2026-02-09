@@ -46,31 +46,24 @@ Language_Translator/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
 ▶️ How to Run the Project
 1️⃣ Install dependencies
-bash
-Copy code
 pip install -r requirements.txt
+
 2️⃣ Run the application
-bash
-Copy code
 streamlit run app.py
+
 3️⃣ Open in browser
-text
-Copy code
 http://localhost:8501
+
 🧪 Sample Test Inputs
 Hello, how are you?
-
 Good morning
-
 Translate this sentence into Hindi
-
 नमस्कार, माझं नाव प्रनाली आहे
 
 📌 Notes
 Internet connection is required for translation
-
 Auto-detect works best with longer sentences
-
 gTTS supports most major languages
