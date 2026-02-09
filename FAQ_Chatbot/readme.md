@@ -56,6 +56,8 @@ FAQ_Chatbot/
 │ └── requirements.txt
 └── README.md
 
+
+
 ## ▶️ How to Run the Project
 
 ### Backend
